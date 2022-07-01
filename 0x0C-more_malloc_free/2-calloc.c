@@ -1,6 +1,6 @@
 /*
  * File: 2-calloc.c
- * Auth: Brennan D Baraban
+ * Auth: Libamalk K
  */
 
 #include "main.h"

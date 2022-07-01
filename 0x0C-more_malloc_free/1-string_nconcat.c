@@ -1,6 +1,6 @@
 /*
  * File: 1-string_nconcat.c
- * Auth: Brennan D Baraban
+ * Auth: Libmalk K
  */
 
 #include "main.h"
